@@ -127,3 +127,5 @@ Even if you don't finish all the tasks, at least try to finish some of them.
     * [How to remove a commit](https://www.clock.co.uk/insight/deleting-a-git-commit)
     * [In depth on rebasing](https://git-scm.com/book/en/v2/Git-Branching-Rebasing)
     * [How to create a merge conflict](https://jonathanmh.com/how-to-create-a-git-merge-conflict/)
+(mostly)
+--FINISHED
